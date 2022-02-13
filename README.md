@@ -19,8 +19,8 @@ Esta es mi solución al [Reto Profile card component de Frontend Mentor](https:/
 
 ### Links
 
-- URL de la solución: [frontendmentor.io](https://www.frontendmentor.io/solutions/order-sumary-component-using-html-and-css-5h125pUav)
-- URL del proyecto: [sergitxin22.github.io/qr-code-component](https://sergitxin22.github.io/order-summary-component/)
+- URL de la solución: [frontendmentor.io](https://www.frontendmentor.io/solutions/profile-card-component-using-html-and-css-P7rjceFTF)
+- URL del proyecto: [sergitxin22.github.io/qr-code-component](https://sergitxin22.github.io/profile-card-component/)
 
 ## Tecnologías
 
