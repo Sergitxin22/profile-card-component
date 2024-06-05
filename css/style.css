@@ -1,4 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+@font-face {
+    font-family: "Kumbh Sans";
+    src:
+        local("Kumbh Sans"),
+        url(../assets/fonts/KumbhSans.woff2) format("woff2"),
+        url(../assets/fonts/KumbhSans.woff) format("woff"),
+        url(../assets/fonts/KumbhSans.ttf) format("truetype");
+    font-display: swap;
+}
 
 :root{
     --DarkCyan: hsl(185, 75%, 39%);
@@ -15,7 +23,7 @@
 body{
     font-family: 'Kumbh Sans', sans-serif;
     background-color: var(--DarkCyan);
-    background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
+    background-image: url(../assets/images/bg-pattern-top.svg), url(../assets/images/bg-pattern-bottom.svg);
     background-repeat: no-repeat, no-repeat;
     background-position: right 759px top -507px, left 765px top 50vh;
 }
