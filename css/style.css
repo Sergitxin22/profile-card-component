@@ -18,6 +18,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    box-sizing: border-box;
 }
 
 body{
@@ -26,12 +27,16 @@ body{
     background-image: url(../assets/images/bg-pattern-top.svg), url(../assets/images/bg-pattern-bottom.svg);
     background-repeat: no-repeat, no-repeat;
     background-position: right 759px top -507px, left 765px top 50vh;
+
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
 }
 
 .card{
     width: 350px;
     height: 375px;
-    margin: 173px auto 0px;
     background-color: aliceblue;
     border-radius: 15px;
 }
