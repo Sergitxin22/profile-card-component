@@ -15,7 +15,7 @@ Esta es mi solución al [Reto Profile card component de Frontend Mentor](https:/
 
 ### Captura de pantalla
 
-![](./images/screenshot.png)
+![](./assets/images/screenshot.webp)
 
 ### Links
 
